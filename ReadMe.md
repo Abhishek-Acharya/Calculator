@@ -7,5 +7,5 @@ Jenkins
 RunDeck  
 Docker  
 
-To run the app execute in docker 
+To run the app execute docker 
 -run --name <name of container> abhishekacharya/calculator-app:latest 
